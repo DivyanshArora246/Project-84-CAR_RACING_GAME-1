@@ -1,0 +1,17 @@
+body{
+    background:url("racing.gif");
+    background-position: center;
+    background-size: cover;
+}
+
+#myCanvas{
+    border-width: 10px;
+    border-style: ridge;
+    border-color:gray ;
+    background-image: url("ADV-C84(1).png");
+    background-size: cover;
+}
+
+h4 {
+    color: white;
+}
